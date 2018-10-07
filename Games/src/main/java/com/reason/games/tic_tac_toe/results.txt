@@ -1,0 +1,6 @@
+Игроки Poll(O) Sam(X) 
+X X X 
+* X O 
+O * O 
+Игрок Sam выиграл!
+

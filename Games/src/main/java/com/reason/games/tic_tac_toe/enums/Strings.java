@@ -1,0 +1,19 @@
+package com.reason.games.tic_tac_toe.enums;
+
+public enum Strings {
+    GAMENAME,
+    USERINTERFACE,
+    STARTGAME,
+    SEEGAMEHISTORY,
+    EXIT,
+    YOURCHOICE,
+    GAMEISSTARTED,
+    ENTERPLAYER1NAME,
+    ENTERPLAYER2NAME,
+    GAMEINFO,
+    RETRY,
+    RETURNTOMAINMENU,
+    LABELGAMEHISTORY
+}
+
+

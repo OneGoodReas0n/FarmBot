@@ -7,8 +7,8 @@ import java.util.Map;
 public class StaticInfo {
 
     private final static StaticInfo instance = new StaticInfo();
-    private final static String BOT_NAME = "Kor_FarmBot";
-    private final static String BOT_TOKEN = "656037872:AAH6pmqtYN9TLFtqFa48iAdc0kdzlFrTFC0";
+    private final static String BOT_NAME = "FarmBot";
+    private final static String BOT_TOKEN = "656037872:AAH6pmqtYN9TLFtqFa48iAdc0kdzlFrTEE0";
     private final Map<Info, String> phrasesEN = new HashMap<>();
     private final Map<Info, String> phrasesRU = new HashMap<>();
     private final Map<Info, String> allPhrases = new HashMap<>();
